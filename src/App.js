@@ -10,7 +10,7 @@ import "./style.css";
 
 function App() {
     return(
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
         <Switch> {/*  Switch : route ( URL )를 찾아서 -> 한번에 하나의 router를 render */}
             <Route path="/movie/:id">
                 <Detail />
