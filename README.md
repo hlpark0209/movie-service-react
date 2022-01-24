@@ -13,7 +13,7 @@
 <br/>
 
 ## 🖥 Demo
-- [Movie-Web-Service](https://hlpark0209.github.io/Movie-Web-Service/)
+- [Movie-Web-Service](https://hlpark0209.github.io/movie-service-react/index.html)
 
 <br/>
 
@@ -34,7 +34,7 @@
 
 ## ☑️ Improvements
 
-* nav 영역 : scroll fixed, animation 기능
+* logo, nav 영역 : scroll fixed, animation 기능
 * 장르에 따른 filter, 페이지 전환 기능
 * 검색 기능
 * loading 이미지
