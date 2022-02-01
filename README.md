@@ -21,7 +21,8 @@
 
 * HTML    
 * CSS    
-* React.js ( setState, useState, useEffect, react Router )
+* React.js
+* api 활용 ( https://yts.mx/api/v2/list_movies.json?minimum_rating=8.8&sort_by=year )
 
 <br/>
 
